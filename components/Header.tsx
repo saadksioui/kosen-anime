@@ -14,7 +14,7 @@ const Header = () => {
     setIsOpen(!isOpen);
   };
   return (
-    <header className="relative py-3">
+    <header className="relative py-3 border-b border-gray-700">
       <nav className="w-[85%] lg:w-[95%] mx-auto flex items-center justify-between">
         <Image src={"/assets/WhiteLogo.svg"} width={200} height={200} className="w-36" alt="logo" />
 
