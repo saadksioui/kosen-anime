@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 
 export const metadata: Metadata = {
@@ -13,9 +15,15 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body>
-        {children}
+    <html lang="en" className="h-full">
+      <body className="flex flex-col h-full bg-[#0D1B2A]">
+        <div className="w-full">
+          <Header />
+            <main className="flex-1">
+              {children}
+            </main>
+          <Footer />
+        </div>
       </body>
     </html>
   );

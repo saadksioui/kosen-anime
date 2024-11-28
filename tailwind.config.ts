@@ -8,10 +8,13 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-      },
+      fontFamily: {
+        poppins: ["Poppins", "sans-serif"],
+        epilogue: ["Epilogue", "sans-serif"],
+        montserrat: ["Montserrat", "sans-serif"],
+        "open-sans": ["Open Sans", "sans-serif"],
+        roboto: ["Roboto", "sans-serif"],
+      }
     },
   },
   plugins: [],
