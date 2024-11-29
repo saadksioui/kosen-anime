@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Attack on Titan",
+    "synopsis": "In a world where giant humanoid Titans terrorize humanity, Eren Yeager joins the Scout Regiment to get revenge on the monsters who killed his mother.",
+    "genres": ["Action", "Drama", "Fantasy"],
+    "episodes": 75,
+    "status": "completed",
+    "releaseDate": "2013-04-06T00:00:00.000Z",
+    "studio": "Wit Studio",
+    "averageRating": 9.1,
+    "ratingsCount": 1500000,
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BNjY4MDQxZTItM2JjMi00NjM5LTk0MWYtOTBlNTY2YjBiNmFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "trailerURL": "https://www.youtube.com/watch?v=example_trailer1",
+    "createdAt": "2024-04-06T00:00:00.000Z",
+    "updatedAt": "2024-06-12T00:00:00.000Z"
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "synopsis": "After his family is slaughtered by demons, Tanjiro Kamado's journey to become a demon slayer begins.",
+    "genres": ["Action", "Adventure", "Supernatural"],
+    "episodes": 26,
+    "status": "completed",
+    "releaseDate": "2019-04-06T00:00:00.000Z",
+    "studio": "ufotable",
+    "averageRating": 8.7,
+    "ratingsCount": 800000,
+    "coverImage": "https://m.media-amazon.com/images/M/MV5BMWU1OGEwNmQtNGM3MS00YTYyLThmYmMtN2FjYzQzNzNmNTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "trailerURL": "https://www.youtube.com/watch?v=example_trailer2",
+    "createdAt": "2024-04-06T00:00:00.000Z",
+    "updatedAt": "2024-05-12T00:00:00.000Z"
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "synopsis": "High schooler Yuji Itadori joins a secret organization of Jujutsu Sorcerers to eliminate a powerful curse.",
+    "genres": ["Action", "Supernatural"],
+    "episodes": 24,
+    "status": "ongoing",
+    "releaseDate": "2020-10-03T00:00:00.000Z",
+    "studio": "MAPPA",
+    "averageRating": 8.8,
+    "ratingsCount": 900000,
+    "coverImage": "https://comenian.org/wp-content/uploads/2024/01/unnamed-87.png",
+    "trailerURL": "https://www.youtube.com/watch?v=example_trailer3",
+    "createdAt": "2024-04-06T00:00:00.000Z",
+    "updatedAt": "2024-06-12T00:00:00.000Z"
+  },
+  {
+    "title": "My Hero Academia",
+    "synopsis": "In a world where people with superpowers (known as 'Quirks') are common, Izuku Midoriya dreams of becoming a hero despite being born without one.",
+    "genres": ["Action", "Comedy", "Superhero"],
+    "episodes": 113,
+    "status": "ongoing",
+    "releaseDate": "2016-04-03T00:00:00.000Z",
+    "studio": "Bones",
+    "averageRating": 8.5,
+    "ratingsCount": 1000000,
+    "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfwP7usRIxfQNj841lU1eALx_vFTlD8ZN-fA&s",
+    "trailerURL": "https://www.youtube.com/watch?v=example_trailer4",
+    "createdAt": "2024-04-06T00:00:00.000Z",
+    "updatedAt": "2024-06-12T00:00:00.000Z"
+  }
+]
