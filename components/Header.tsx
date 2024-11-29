@@ -30,7 +30,7 @@ const Header = () => {
         </button>
 
         {/* Menu for Mobile & Tablet */}
-        <div className={`${isOpen ? "block absolute w-full h-screen left-0 top-full bg-[#0D1B2A] z-10" : "hidden"}`}>
+        <div className={`${isOpen ? "block absolute w-full h-screen left-0 top-full bg-[#0D1B2A] z-50" : "hidden"}`}>
           <ul className="flex flex-col items-center gap-4 mt-10">
             {
               NavLinks.map((link, index) => (
